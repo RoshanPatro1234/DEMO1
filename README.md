@@ -1,2 +1,2 @@
 # DEMO1
-#Roshan patro  is tghe creator of the hello world 
+#Roshan patro  is the creator of the hello world 
